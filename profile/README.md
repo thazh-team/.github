@@ -1,2 +1,1 @@
-# Thazh Team
-> Website: https://thazh.wuaze.com
+> About Me: [https://thazh.is-a.dev/about](https://thazh.is-a.dev/about/thazh-team)
